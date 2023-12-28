@@ -1,6 +1,6 @@
 ## Caractéristiques
 
-<img src="https://image.noelshack.com/fichiers/2023/52/4/1703782612-capture-d-ecran-2023-12-28-175641.png" alt="html5" width="40" height="40"/>
+<img src="https://image.noelshack.com/fichiers/2023/52/4/1703782612-capture-d-ecran-2023-12-28-175641.png"/>
 
 Rémon : ~0,01 ms.
 
